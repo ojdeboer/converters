@@ -2,8 +2,8 @@ import os
 import xml.etree.ElementTree as ET
 from geojson import Feature, FeatureCollection, dump
 
-# path = "C:\\Users\\Onno\\data\\data\\pancreas"
-path = "D:\\qupath\\"
+path = "C:\\Users\\Onno\\data\\data\\pancreas"
+# path = "D:\\qupath\\"
 
 classes = {"roi": [130, 76, 157],
            "cancer_ducts": [218, 115, 235],
