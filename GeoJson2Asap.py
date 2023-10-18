@@ -25,6 +25,9 @@ groups_data = [
     {"Color": "#64fe2e", "Name": "lumen", "PartOfGroup": "None"},
     {"Color": "0000ff", "Name": "nucleus_tumor", "PartOfGroup": "None"},
     {"Color": "0000ff", "Name": "nucleus_normal", "PartOfGroup": "None"}
+    {"Color": "0000ff", "Name": "nucleus_islets", "PartOfGroup": "None"}
+    {"Color": "0000ff", "Name": "nucleus_acinic_tissue", "PartOfGroup": "None"}
+    {"Color": "0000ff", "Name": "nucleus_lymfocyte", "PartOfGroup": "None"}
 ]
 
 
